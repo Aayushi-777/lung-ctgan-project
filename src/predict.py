@@ -38,7 +38,7 @@ def predict(input_data):
 if __name__ == "__main__":
     sample_input = [
         {"age": 65, "smoking": 1, "cough": 1, "chest_pain": 0},
-        {"age": 45, "smoking": 1, "cough": 0, "chest_pain": 1},
+        {"age": 45, "smoking": 1, "cough": 1, "chest_pain": 1},
     ]
 
     results = predict(sample_input)
