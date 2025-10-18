@@ -1,0 +1,7 @@
+{
+    "dataset": "breast",
+    "accuracy": 0.6,
+    "precision": 0.6282828282828283,
+    "recall": 0.6,
+    "f1_score": 0.6083333333333333
+}

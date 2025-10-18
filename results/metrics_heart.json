@@ -1,0 +1,7 @@
+{
+    "dataset": "heart",
+    "accuracy": 0.45,
+    "precision": 0.4787878787878788,
+    "recall": 0.45,
+    "f1_score": 0.4541353383458646
+}
