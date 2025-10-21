@@ -1,6 +1,8 @@
 import joblib
 import pandas as pd
 
+pd.set_option('display.max_columns', None)
+pd.set_option('display.width', 200)
 CANCER_MODEL_PATH = "results/random_forest_cancer.pkl"
 STAGE_MODEL_PATH = "results/random_forest_stage.pkl"
 TRAIN_PATH = "data/processed/train.csv"
